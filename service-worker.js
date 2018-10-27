@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/todays-color-fortune/precache-manifest.1013463e75de30d410b62dc61f2b939c.js"
+  "/todays-color-fortune/precache-manifest.419ded9246a94b5769755ee005d4c95d.js"
 );
 
 workbox.clientsClaim();
@@ -29,6 +29,6 @@ workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerNavigationRoute("/todays-color-fortune/index.html", {
-  
+
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

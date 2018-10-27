@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/todays-color-fortune/static/css/main.2476c46d.chunk.css"
   },
   {
-    "revision": "e40288e05957f032517bab4602b9d673",
+    "revision": "8838094973d85f74f9499792eec0eab1",
     "url": "/todays-color-fortune/index.html"
   }
 ];
