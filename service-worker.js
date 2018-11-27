@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/todays-color-fortune/precache-manifest.419ded9246a94b5769755ee005d4c95d.js"
+  "/todays-color-fortune/precache-manifest.b1e66661301f0afdd017f4e84d144ab1.js"
 );
 
 workbox.clientsClaim();
