@@ -13,6 +13,11 @@ code {
     monospace;
 }
 
+a {
+  color: white;
+  font-size: 12pt;
+}
+
 .row {
     display: flex;
 }
@@ -30,4 +35,10 @@ code {
     background-color: lightblue;
     width: 100px;
     height: 100px;
+}
+
+.footer {
+  margin-top: 64px;
+  color: white;
+  font-size: 12pt;
 }
