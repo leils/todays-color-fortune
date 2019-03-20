@@ -1,13 +1,13 @@
 {
-  "main.css": "/todays-color-fortune/static/css/main.8ce0ea3e.chunk.css",
-  "main.js": "/todays-color-fortune/static/js/main.c03d37ae.chunk.js",
-  "main.js.map": "/todays-color-fortune/static/js/main.c03d37ae.chunk.js.map",
-  "static/js/1.37f90d57.chunk.js": "/todays-color-fortune/static/js/1.37f90d57.chunk.js",
-  "static/js/1.37f90d57.chunk.js.map": "/todays-color-fortune/static/js/1.37f90d57.chunk.js.map",
-  "runtime~main.js": "/todays-color-fortune/static/js/runtime~main.2256892b.js",
-  "runtime~main.js.map": "/todays-color-fortune/static/js/runtime~main.2256892b.js.map",
-  "static/css/main.8ce0ea3e.chunk.css.map": "/todays-color-fortune/static/css/main.8ce0ea3e.chunk.css.map",
+  "main.css": "/todays-color-fortune/static/css/main.13e4b643.chunk.css",
+  "main.js": "/todays-color-fortune/static/js/main.9ba8307f.chunk.js",
+  "main.js.map": "/todays-color-fortune/static/js/main.9ba8307f.chunk.js.map",
+  "runtime~main.js": "/todays-color-fortune/static/js/runtime~main.dc891050.js",
+  "runtime~main.js.map": "/todays-color-fortune/static/js/runtime~main.dc891050.js.map",
+  "static/js/2.afa494cd.chunk.js": "/todays-color-fortune/static/js/2.afa494cd.chunk.js",
+  "static/js/2.afa494cd.chunk.js.map": "/todays-color-fortune/static/js/2.afa494cd.chunk.js.map",
   "index.html": "/todays-color-fortune/index.html",
-  "precache-manifest.b1e66661301f0afdd017f4e84d144ab1.js": "/todays-color-fortune/precache-manifest.b1e66661301f0afdd017f4e84d144ab1.js",
-  "service-worker.js": "/todays-color-fortune/service-worker.js"
+  "precache-manifest.56ea2cfa2b6ab779894e8327cb349944.js": "/todays-color-fortune/precache-manifest.56ea2cfa2b6ab779894e8327cb349944.js",
+  "service-worker.js": "/todays-color-fortune/service-worker.js",
+  "static/css/main.13e4b643.chunk.css.map": "/todays-color-fortune/static/css/main.13e4b643.chunk.css.map"
 }
