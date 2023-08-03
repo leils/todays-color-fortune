@@ -21,35 +21,35 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <p> Today's color fortune is: </p>
+          <h1>Today's color fortune is:</h1>
           <div class="row">
             <a href={`https://www.color-hex.com/color/${randcolor1.slice(1)}` } target="blank">
               <div class="column" style={{backgroundColor: randcolor1}} >
-                {randcolor1}
+                <h3>{randcolor1}</h3>
               </div>
             </a>
 
             <a href={`https://www.color-hex.com/color/${randcolor2.slice(1)}`} target="blank">
               <div class="column" style={{backgroundColor: randcolor2}} >
-                {randcolor2}
+                <h3>{randcolor2}</h3>
               </div>
             </a>
 
             <a href={`https://www.color-hex.com/color/${randcolor3.slice(1)}`} target="blank">
               <div class="column" style={{backgroundColor: randcolor3}} >
-                {randcolor3}
+                <h3>{randcolor3}</h3>
               </div>
             </a>
 
             <a href={`https://www.color-hex.com/color/${randcolor4.slice(1)}`} target="blank">
               <div class="column" style={{backgroundColor: randcolor4}} >
-                {randcolor4}
+                <h3>{randcolor4}</h3>
               </div>
             </a>
 
             <a href={`https://www.color-hex.com/color/${randcolor5.slice(1)}`} target="blank">
               <div class="column" style={{backgroundColor: randcolor5}} >
-                {randcolor5}
+                <h3>{randcolor5}</h3>
               </div>
             </a>
           </div>
